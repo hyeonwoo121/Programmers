@@ -1,4 +1,4 @@
-package org.programmers;
+package programmers.solution;
 
 public class Solution {
     public int solution(int num1, int num2) {
