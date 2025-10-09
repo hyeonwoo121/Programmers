@@ -8,7 +8,6 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        Solution hyeonwoo = new Solution();
-        hyeonwoo.solution(a,b);
+        Solution.solution(a,b);
     }
 }
