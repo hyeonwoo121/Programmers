@@ -8,7 +8,9 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        Solution hyeonwoo = new Solution();
-        hyeonwoo.solution(a,b);
+        Solution.solution(a,b);
+
+        //자원 반납
+        sc.close();
     }
 }
