@@ -1,4 +1,4 @@
-﻿package programmers.solution.question;
+package programmers.solution.question;
 
 class Solution {
     public int solution(int num1, int num2) {
